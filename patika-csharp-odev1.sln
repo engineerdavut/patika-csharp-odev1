@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "patika-csharp-odev1", "patika-csharp-odev1\patika-csharp-odev1.csproj", "{E78A1D89-6419-474D-AA03-4CD2018F3028}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E78A1D89-6419-474D-AA03-4CD2018F3028}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E78A1D89-6419-474D-AA03-4CD2018F3028}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E78A1D89-6419-474D-AA03-4CD2018F3028}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E78A1D89-6419-474D-AA03-4CD2018F3028}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC188F40-DF47-485A-8AF5-56DAA7EE87BE}
+	EndGlobalSection
+EndGlobal
